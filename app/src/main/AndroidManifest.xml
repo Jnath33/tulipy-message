@@ -16,6 +16,11 @@
         <activity
             android:name=".MainMenu"
             android:exported="false" />
+        <activity
+            android:name=".SeeMessage"
+            android:exported="false"
+            android:label="@string/title_activity_see_message"
+            android:theme="@style/Theme.TulipYMessage.NoActionBar" />
     </application>
 
 </manifest>
